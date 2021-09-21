@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brianhernandezzz
 - 👀 I’m interested in software development and music
-- 🌱 I’m currently learning 'Intro to Web Development'
+- 🌱 I’m currently learning 'Web Development'
 - 💞️ I’m looking to collaborate on a variety of projects using code.
 - 📫 How to reach me 007brianhdz@gmail.com
 
